@@ -5,7 +5,7 @@
 
 ## Overview
 
-Valgrind Exercises files
+Valgrind Exercises files in results folder
 
 - before_valgrind.txt - Shows valgrind output before bug fixes
 - after_valgrind.txt - Shows valgrind output after bug fixes
