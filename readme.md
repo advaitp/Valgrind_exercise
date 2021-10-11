@@ -7,9 +7,9 @@
 
 Valgrind Exercises files
 
--before_valgrind.txt - Shows valgrind output before bug fixes
--after_valgrind.txt - Shows valgrind output after bug fixes
--KCachegrind.png - KCachegrind output screenshot
+- before_valgrind.txt - Shows valgrind output before bug fixes
+- after_valgrind.txt - Shows valgrind output after bug fixes
+- KCachegrind.png - KCachegrind output screenshot
 
 
 Simple starter C++ project with:
